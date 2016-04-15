@@ -6,7 +6,7 @@
   "moduleType": [
     "amd"
   ],
-  "homepage": "https://github.com/betogrun/social-fleet-frontend",
+  "homepage": "https://github.com/Teruonak/mySelfie-frontend",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,11 +15,12 @@
     "tests"
   ],
   "authors": [
-    "Alberto Rocha <betogrun@gmail.com>"
+    "Alberto Rocha <betogrun@gmail.com>",
+    "Marcel Nakamine <marcel.nakamine@gmail.com>"
   ],
   "private": true,
   "dependencies": {
-    "angular": "^1.5.0", 
+    "angular": "^1.5.0",
     "satellizer": "^0.14.0"
   }
 }
